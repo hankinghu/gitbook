@@ -48,7 +48,15 @@
 
 21、[血酬定律](https://github.com/hankinghu/literature-books/blob/master/%E8%A1%80%E9%85%AC%E5%AE%9A%E5%BE%8B.txt)
 
-## 政治
+22、[血色浪漫](https://github.com/hankinghu/literature-books/blob/master/%E3%80%8A%E8%A1%80%E8%89%B2%E6%B5%AA%E6%BC%AB%E3%80%8B%E4%BD%9C%E8%80%85%EF%BC%9A%E9%83%BD%E6%A2%81.txt)
+
+## 战争
+
+1、[雍正王朝](https://github.com/hankinghu/literature-books/blob/master/《雍正王朝》.txt)
+
+2、[狼烟北平](https://github.com/hankinghu/literature-books/blob/master/狼烟北平.txt)
+
+3、[亮剑](https://github.com/hankinghu/literature-books/blob/master/合并版亮剑.txt)
 
 ## 哲学
 
@@ -331,4 +339,12 @@
 23、[白石老人自述](https://github.com/hankinghu/literature-books/blob/master/%E7%99%BD%E7%9F%B3%E8%80%81%E4%BA%BA%E8%87%AA%E8%BF%B0.txt)
 
 24、[黄河青山](https://github.com/hankinghu/literature-books/blob/master/%E9%BB%84%E6%B2%B3%E9%9D%92%E5%B1%B1.txt)
+
+25、[卓别林自传](https://github.com/hankinghu/literature-books/blob/master/卓别林自传.txt)
+
+26、[梵高传](https://github.com/hankinghu/literature-books/blob/master/凡高传.txt)
+
+27、[金庸传](https://github.com/hankinghu/literature-books/blob/master/金庸传.txt)
+
+28、[蛤蟆的油](https://github.com/hankinghu/literature-books/blob/master/蛤蟆的油.txt)
 
