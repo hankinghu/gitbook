@@ -50,7 +50,7 @@
 
 22、[血色浪漫](https://github.com/hankinghu/literature-books/blob/master/%E3%80%8A%E8%A1%80%E8%89%B2%E6%B5%AA%E6%BC%AB%E3%80%8B%E4%BD%9C%E8%80%85%EF%BC%9A%E9%83%BD%E6%A2%81.txt)
 
-## 战争与政治
+## 战争与革命
 
 1、[雍正王朝](https://github.com/hankinghu/literature-books/blob/master/《雍正王朝》.txt)
 
