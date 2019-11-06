@@ -76,27 +76,27 @@
 
 12、[陈冠中：裸命](https://github.com/hankinghu/literature-books/blob/master/革命与战争/陈冠中：裸命.mobi)
 
-13、[陈冠中：盛世——中国2013.epub](https://github.com/hankinghu/literature-books/blob/master/革命与战争/陈冠中：盛世——中国2013.epub)
+13、[陈冠中：盛世——中国2013](https://github.com/hankinghu/literature-books/blob/master/革命与战争/陈冠中：盛世——中国2013.epub)
 
-14、[程映虹：二十世纪最后的革命家——菲德尔·卡斯特罗传.pdf](https://github.com/hankinghu/literature-books/blob/master/革命与战争/程映虹：二十世纪最后的革命家——菲德尔·卡斯特罗传.pdf)
+14、[程映虹：二十世纪最后的革命家——菲德尔·卡斯特罗传](https://github.com/hankinghu/literature-books/blob/master/革命与战争/程映虹：二十世纪最后的革命家——菲德尔·卡斯特罗传.pdf)
 
-15、[大卫·米切尔：云图.epub](https://github.com/hankinghu/literature-books/blob/master/革命与战争/大卫·米切尔：云图.epub)
+15、[大卫·米切尔：云图](https://github.com/hankinghu/literature-books/blob/master/革命与战争/大卫·米切尔：云图.epub)
 
-16、[高华：红太阳是怎样升起的——延安整风运动的来龙去脉.epub](https://github.com/hankinghu/literature-books/blob/master/革命与战争/高华：红太阳是怎样升起的——延安整风运动的来龙去脉.epub)
+16、[高华：红太阳是怎样升起的——延安整风运动的来龙去脉](https://github.com/hankinghu/literature-books/blob/master/革命与战争/高华：红太阳是怎样升起的——延安整风运动的来龙去脉.epub)
 
 17、[革命的僭妄——红色高棉，一部血淋淋的历史](https://github.com/hankinghu/literature-books/blob/master/革命与战争/革命的僭妄——红色高棉，一部血淋淋的历史.pdf)
 
-18、[格伦·格林沃尔德：无处可藏——斯诺登、美国国安局与全球监控.epub](https://github.com/hankinghu/literature-books/blob/master/革命与战争/格伦·格林沃尔德：无处可藏——斯诺登、美国国安局与全球监控.epub)
+18、[格伦·格林沃尔德：无处可藏——斯诺登、美国国安局与全球监控](https://github.com/hankinghu/literature-books/blob/master/革命与战争/格伦·格林沃尔德：无处可藏——斯诺登、美国国安局与全球监控.epub)
 
 19、[胡平：中国民运反思](https://github.com/hankinghu/literature-books/blob/master/革命与战争/胡平：中国民运反思.txt)
 
-20、[黄长烨：黄长烨回忆录.txt](https://github.com/hankinghu/literature-books/blob/master/革命与战争/黄长烨：黄长烨回忆录.txt)
+20、[黄长烨：黄长烨回忆录](https://github.com/hankinghu/literature-books/blob/master/革命与战争/黄长烨：黄长烨回忆录.txt)
 
 21、[雷震远：内在的敌人](https://github.com/hankinghu/literature-books/blob/master/革命与战争/雷震远：内在的敌人.epub)
 
-22、[李慎之：毛主席是什么时候决定引蛇出洞的.txt](https://github.com/hankinghu/literature-books/blob/master/革命与战争/李慎之：毛主席是什么时候决定引蛇出洞的.txt)
+22、[李慎之：毛主席是什么时候决定引蛇出洞的](https://github.com/hankinghu/literature-books/blob/master/革命与战争/李慎之：毛主席是什么时候决定引蛇出洞的.txt)
 
-23、[廖亦武：上帝是红色的——中国十字架地下寻访录.epub](https://github.com/hankinghu/literature-books/blob/master/革命与战争/廖亦武：上帝是红色的——中国十字架地下寻访录.epub)
+23、[廖亦武：上帝是红色的——中国十字架地下寻访录](https://github.com/hankinghu/literature-books/blob/master/革命与战争/廖亦武：上帝是红色的——中国十字架地下寻访录.epub)
 
 24、[刘宾雁：第二种忠诚.pdf](https://github.com/hankinghu/literature-books/blob/master/革命与战争/刘宾雁：第二种忠诚.pdf)
 
@@ -128,13 +128,25 @@
 
 38、[文革三大屠杀案.pdf](https://github.com/hankinghu/literature-books/blob/master/革命与战争/文革三大屠杀案.pdf)
 
+39、[小杰克·马特洛克：苏联解体亲历记 \(上\)](https://github.com/hankinghu/literature-books/blob/master/%E9%9D%A9%E5%91%BD%E4%B8%8E%E6%88%98%E4%BA%89/%E5%B0%8F%E6%9D%B0%E5%85%8B%C2%B7%E9%A9%AC%E7%89%B9%E6%B4%9B%E5%85%8B%EF%BC%9A%E8%8B%8F%E8%81%94%E8%A7%A3%E4%BD%93%E4%BA%B2%E5%8E%86%E8%AE%B0%20%28%E4%B8%8A%29.pdf) 
 
+40、小杰克·马特洛克：苏联解体亲历记 \(下\).pdf
 
+41、[笑蜀：历史的先声——半个世纪前的庄严承诺.txt](https://github.com/hankinghu/literature-books/blob/master/革命与战争/笑蜀：历史的先声——半个世纪前的庄严承诺.txt)
 
+42、[亚历山大·索尔仁尼琴：古拉格群岛.mobi](https://github.com/hankinghu/literature-books/blob/master/革命与战争/亚历山大·索尔仁尼琴：古拉格群岛.mobi)
 
+43、[杨继绳：墓碑——中国六十年代大饥荒纪实.epub](https://github.com/hankinghu/literature-books/blob/master/革命与战争/杨继绳：墓碑——中国六十年代大饥荒纪实.epub)
 
+44、[杨继绳：脱离实际必然走向谬误——就大饥荒年代的人口问题与孙经先商榷.pdf](https://github.com/hankinghu/literature-books/blob/master/革命与战争/杨继绳：脱离实际必然走向谬误——就大饥荒年代的人口问题与孙经先商榷.pdf)
 
+45、[杨继绳：中国改革年代的政治斗争.epub](https://github.com/hankinghu/literature-books/blob/master/革命与战争/杨继绳：中国改革年代的政治斗争.epub)
 
+46、[尤金·扎米亚京：我们.epub](https://github.com/hankinghu/literature-books/blob/master/革命与战争/尤金·扎米亚京：我们.epub)
+
+47、[章诒和：往事并不如烟](https://github.com/hankinghu/literature-books/blob/master/革命与战争/章诒和：往事并不如烟.txt)
+
+48、[周恩来文革讲话集](https://github.com/hankinghu/literature-books/blob/master/革命与战争/周恩来文革讲话集.txt)
 
 ## 哲学
 
