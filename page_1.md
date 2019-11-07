@@ -94,13 +94,13 @@
 
 44、[徐中约：中国近代史 \(下\).pdf](https://github.com/hankinghu/literature-books/blob/master/%E5%8E%86%E5%8F%B2%E5%92%8C%E7%A4%BE%E4%BC%9A/%E5%BE%90%E4%B8%AD%E7%BA%A6%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2%20%28%E4%B8%8B%29.pdf)
 
-45、[尤瓦尔·赫拉利：人类简史——从动物到上帝.epub](https://github.com/hankinghu/literature-books/blob/master/%E5%8E%86%E5%8F%B2%E5%92%8C%E7%A4%BE%E4%BC%9A%E5%B0%A4%E7%93%A6%E5%B0%94%C2%B7%E8%B5%AB%E6%8B%89%E5%88%A9%EF%BC%9A%E4%BA%BA%E7%B1%BB%E7%AE%80%E5%8F%B2%E2%80%94%E2%80%94%E4%BB%8E%E5%8A%A8%E7%89%A9%E5%88%B0%E4%B8%8A%E5%B8%9D.epub)
+45、[尤瓦尔·赫拉利：人类简史——_从动物到上帝.epub_](https://github.com/hankinghu/literature-books/blob/master/%E5%8E%86%E5%8F%B2%E5%92%8C%E7%A4%BE%E4%BC%9A/%E5%B0%A4%E7%93%A6%E5%B0%94%C2%B7%E8%B5%AB%E6%8B%89%E5%88%A9%EF%BC%9A%E4%BA%BA%E7%B1%BB%E7%AE%80%E5%8F%B2%E2%80%94%E2%80%94%E4%BB%8E%E5%8A%A8%E7%89%A9%E5%88%B0%E4%B8%8A%E5%B8%9D.epub)\_\_
 
-46、[袁伟时：帝国落日——晚清大变局.txt](https://github.com/hankinghu/literature-books/blob/master/%E8%A2%81%E4%BC%9F%E6%97%B6%EF%BC%9A%E5%B8%9D%E5%9B%BD%E8%90%BD%E6%97%A5%E2%80%94%E2%80%94%E6%99%9A%E6%B8%85%E5%A4%A7%E5%8F%98%E5%B1%80.txt)
+46、[袁伟时：帝国落日——晚清大变局.txt](https://github.com/hankinghu/literature-books/blob/master/%E5%8E%86%E5%8F%B2%E5%92%8C%E7%A4%BE%E4%BC%9A/%E8%A2%81%E4%BC%9F%E6%97%B6%EF%BC%9A%E5%B8%9D%E5%9B%BD%E8%90%BD%E6%97%A5%E2%80%94%E2%80%94%E6%99%9A%E6%B8%85%E5%A4%A7%E5%8F%98%E5%B1%80.txt)
 
-47、[张鸣：重说中国近代史.epub](https://github.com/hankinghu/literature-books/blob/master/%E5%BC%A0%E9%B8%A3%EF%BC%9A%E9%87%8D%E8%AF%B4%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2.epub)
+47、[张鸣：重说中国近代史.epub](https://github.com/hankinghu/literature-books/blob/master/%E5%8E%86%E5%8F%B2%E5%92%8C%E7%A4%BE%E4%BC%9A/%E5%BC%A0%E9%B8%A3%EF%BC%9A%E9%87%8D%E8%AF%B4%E4%B8%AD%E5%9B%BD%E8%BF%91%E4%BB%A3%E5%8F%B2.epub)
 
-48、[张学良 & 唐德刚：张学良口述历史.epub](https://github.com/hankinghu/literature-books/blob/master/%E5%BC%A0%E5%AD%A6%E8%89%AF%20&%20%E5%94%90%E5%BE%B7%E5%88%9A%EF%BC%9A%E5%BC%A0%E5%AD%A6%E8%89%AF%E5%8F%A3%E8%BF%B0%E5%8E%86%E5%8F%B2.epub)
+48、[张学良 & 唐德刚：张学良口述历史.epub](https://github.com/hankinghu/literature-books/blob/master/%E5%8E%86%E5%8F%B2%E5%92%8C%E7%A4%BE%E4%BC%9A/%E5%BC%A0%E5%AD%A6%E8%89%AF%20%26%20%E5%94%90%E5%BE%B7%E5%88%9A%EF%BC%9A%E5%BC%A0%E5%AD%A6%E8%89%AF%E5%8F%A3%E8%BF%B0%E5%8E%86%E5%8F%B2.epub)
 
 ## 战争与革命
 
@@ -166,7 +166,7 @@
 
 31、[乔治·奥威尔：动物庄园](https://github.com/hankinghu/literature-books/blob/master/革命与战争/乔治·奥威尔：动物庄园.txt)
 
-32、沈志华 \(主编\)：一个大国的崛起与崩溃——苏联历史专题研究.txt
+32、[沈志华 \(主编\)：一个大国的崛起与崩溃——苏联历史专题研究.txt](https://github.com/hankinghu/literature-books/blob/master/%E9%9D%A9%E5%91%BD%E4%B8%8E%E6%88%98%E4%BA%89/%E6%B2%88%E5%BF%97%E5%8D%8E%20%28%E4%B8%BB%E7%BC%96%29%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%A4%A7%E5%9B%BD%E7%9A%84%E5%B4%9B%E8%B5%B7%E4%B8%8E%E5%B4%A9%E6%BA%83%E2%80%94%E2%80%94%E8%8B%8F%E8%81%94%E5%8E%86%E5%8F%B2%E4%B8%93%E9%A2%98%E7%A0%94%E7%A9%B6.txt)
 
 33、[盛雪：远华案黑幕](https://github.com/hankinghu/literature-books/blob/master/%E9%9D%A9%E5%91%BD%E4%B8%8E%E6%88%98%E4%BA%89/%E7%9B%9B%E9%9B%AA%EF%BC%9A%E8%BF%9C%E5%8D%8E%E6%A1%88%E9%BB%91%E5%B9%95.txt)
 
@@ -182,7 +182,7 @@
 
 39、[小杰克·马特洛克：苏联解体亲历记 \(上\)](https://github.com/hankinghu/literature-books/blob/master/%E9%9D%A9%E5%91%BD%E4%B8%8E%E6%88%98%E4%BA%89/%E5%B0%8F%E6%9D%B0%E5%85%8B%C2%B7%E9%A9%AC%E7%89%B9%E6%B4%9B%E5%85%8B%EF%BC%9A%E8%8B%8F%E8%81%94%E8%A7%A3%E4%BD%93%E4%BA%B2%E5%8E%86%E8%AE%B0%20%28%E4%B8%8A%29.pdf) 
 
-40、小杰克·马特洛克：苏联解体亲历记 \(下\).pdf
+40、[小杰克·马特洛克：苏联解体亲历记 \(下\).pdf](https://github.com/hankinghu/literature-books/blob/master/%E9%9D%A9%E5%91%BD%E4%B8%8E%E6%88%98%E4%BA%89/%E5%B0%8F%E6%9D%B0%E5%85%8B%C2%B7%E9%A9%AC%E7%89%B9%E6%B4%9B%E5%85%8B%EF%BC%9A%E8%8B%8F%E8%81%94%E8%A7%A3%E4%BD%93%E4%BA%B2%E5%8E%86%E8%AE%B0%20%28%E4%B8%8B%29.pdf)
 
 41、[笑蜀：历史的先声——半个世纪前的庄严承诺.txt](https://github.com/hankinghu/literature-books/blob/master/革命与战争/笑蜀：历史的先声——半个世纪前的庄严承诺.txt)
 
