@@ -1,98 +1,100 @@
----
-description: 很全面的电子书搜索网站
----
+# 战争与革命
 
-# 电子书搜索网站
+## 战争与革命
 
-## **1、**英文电子书搜索引擎
+1、[雍正王朝](https://github.com/hankinghu/literature-books/blob/master/《雍正王朝》.txt)
 
-Library Genesis 网站是一个支持免费下载电子书籍的图书索引库，提供科技、科学文章、小说。漫画、杂志等书籍，可根据作者、期刊号、出版者、书号、语言等进行选项进行搜索并下载到本地。对于国外的书籍类资源站点，LibGen提供的各类书籍都有\(多为新书，能下到不少二十世纪以来新出的古典文本的考订本及解读文献\).
+2、[狼烟北平](https://github.com/hankinghu/literature-books/blob/master/狼烟北平.txt)
 
-网站：[http://gen.lib.rus.ec](http://gen.lib.rus.ec/)
+3、[亮剑](https://github.com/hankinghu/literature-books/blob/master/合并版亮剑.txt)
 
-## **2、古登堡数字电子书计划**
+4、[乔治·奥威尔：一九八四](https://github.com/hankinghu/literature-books/blob/master/革命与战争/乔治·奥威尔：一九八四.txt)
 
-GutenBerg:古登堡数字电子书计划是世界上第一个数字图书馆，所有书籍的输入都是由志愿者来完成的，并将这些书籍文本化，基于互联网的大量提供版权过期而进入公有领域书籍的一项协作计划。古登堡计划收录的书籍其中主要是西方文化传统中的文学作品，比如小说、诗歌、小故事、戏剧，除此之外，PG也收录食谱、书目以及期刊。另外还包括一些非文本内容，比如音频文件、乐谱文件等。古登堡计划首先将书籍通过扫描数字化，在交由软件文本化，然后交由两个不同的志愿者校对两次。如果原来的书籍质量很差，例如书籍太古老，那么还会通过手工进行逐词的录入。最初的书籍都是英文的，到目前已经有超过25种语言的书籍。古登堡计划是一个完全志愿性的组织，这一点上和维基百科很相似。古登堡计划的目标是保证未来能免于贷款和其他资金的控制，不受短暂的政治或文化优先性的影响，避免任何来自政治家或经济利益集团的压力。捐赠只被用来购买设备和补给品，大多数是计算机和扫描仪。
+5、[阿瑟·库斯勒：正午的黑暗](https://github.com/hankinghu/literature-books/blob/master/革命与战争/阿瑟·库斯勒：正午的黑暗.epub)
 
-网站：[http://www.gutenberg.org](http://www.gutenberg.org/)
+6、[爱德华·拉津斯基：斯大林秘闻——原苏联秘密档案披露](https://github.com/hankinghu/literature-books/blob/master/革命与战争/爱德华·拉津斯基：斯大林秘闻——原苏联秘密档案披露.epub)
 
-## **3、Bookzz免费电子书搜索下载网**
+7、[安东尼·刘易斯：言论的边界——美国宪法第一修正案简史](https://github.com/hankinghu/literature-books/blob/master/革命与战争/安东尼·刘易斯：言论的边界——美国宪法第一修正案简史.epub)
 
-Bookzz 是一个号称是世界上最大的电子书图书馆，目前拥有270本电子书，以及来自世界各地出版商发行的5240万科学文章，同时还有小说、教科书、漫画等，提供多种语言版本。如果你想要寻找一些英文版的电子书籍不妨试试该网站，用户可以通过搜索选项来查询标题、作者、书籍描述，高级搜索可根据年代、语言和格式进行搜索，支持PDF、EPUB、MOBI、DOC，据说该网站是LibGen和Library Genesis的镜像数据，总之搜索电子书并下载非常实用。
+8、[安妮·阿普尔鲍姆：古拉格——一部历史](https://github.com/hankinghu/literature-books/blob/master/革命与战争/安妮·阿普尔鲍姆：古拉格——一部历史.epub)
 
-网站：[http://b-ok.org](http://b-ok.org/)
+9、[奥尔德斯·赫胥黎：美丽新世界](https://github.com/hankinghu/literature-books/blob/master/革命与战争/奥尔德斯·赫胥黎：美丽新世界.txt)
 
-## **4、鸠摩电子书搜索引擎**
+10、[巴金：随想录](https://github.com/hankinghu/literature-books/blob/master/革命与战争/巴金：随想录.mobi)
 
-鸠魔搜书是一个基于电子书籍爱好者而创建的电子书搜索引擎网站，主要搜索包含了百度网盘，微盘等网盘和一些kindle电子书论坛之类很多我们常看的书籍，都能在这里找到电子版多种格式多种选择，PDF，TXT，MOBI等等。鸠魔搜书使用的搜索引擎是谷歌和必应，支持搜索的站点有百度云、微盘、kindle114、麦兜、万读、掌上书院、小木虫、华为网盘、子午书简、我的磨、凤凰网等站点。有了该网站找书不再是难事。
+11、[芭芭拉·德米克：无可羡慕——朝鲜人的普通生活](https://github.com/hankinghu/literature-books/blob/master/革命与战争/芭芭拉·德米克：无可羡慕——朝鲜人的普通生活.epub)
 
-网站：[https://www.jiumodiary.com](https://www.jiumodiary.com/)
+12、[陈冠中：裸命](https://github.com/hankinghu/literature-books/blob/master/革命与战争/陈冠中：裸命.mobi)
 
-## **5、Openpdf 电子书PDF搜索引擎**
+13、[陈冠中：盛世——中国2013](https://github.com/hankinghu/literature-books/blob/master/革命与战争/陈冠中：盛世——中国2013.epub)
 
-“Open PDF”是一个基于PDF格式的电子书搜索引擎，支持用过输入关键词来搜索PDF格式的电子书，除了支持搜索外也支持索引出下载地址，用户可以直接下载搜索的电子书，不过要尊重出版商和作者的授权，个人学习使用即可。”Open PDF”搜索引擎是基于谷歌自定义搜索功能优化而来，除了可以搜索电子书外，也提高了PDF查看器和PDF工具栏，用户可把搜索到的电子书url链接输入到查看器中阅读。
+14、[程映虹：二十世纪最后的革命家——菲德尔·卡斯特罗传](https://github.com/hankinghu/literature-books/blob/master/革命与战争/程映虹：二十世纪最后的革命家——菲德尔·卡斯特罗传.pdf)
 
-网站：[https://openpdf.com](https://openpdf.com/)
+15、[大卫·米切尔：云图](https://github.com/hankinghu/literature-books/blob/master/革命与战争/大卫·米切尔：云图.epub)
 
-## **6、免费国外名著阅读下载网**
+16、[高华：红太阳是怎样升起的——延安整风运动的来龙去脉](https://github.com/hankinghu/literature-books/blob/master/革命与战争/高华：红太阳是怎样升起的——延安整风运动的来龙去脉.epub)
 
-PlaneteBook:免费国外名著阅读下载网是一个提供免费的世界名著电子书下载网站，你可以找到很多经典的文学著作，提供各种各样的经典小说、电子书籍并且免费的提供给用户下载阅读。
+17、[革命的僭妄——红色高棉，一部血淋淋的历史](https://github.com/hankinghu/literature-books/blob/master/革命与战争/革命的僭妄——红色高棉，一部血淋淋的历史.pdf)
 
-网站：[http://www.planetebook.com](http://www.planetebook.com/)
+18、[格伦·格林沃尔德：无处可藏——斯诺登、美国国安局与全球监控](https://github.com/hankinghu/literature-books/blob/master/革命与战争/格伦·格林沃尔德：无处可藏——斯诺登、美国国安局与全球监控.epub)
 
-## **7、免费IT电子书种子下载网**
+19、[胡平：中国民运反思](https://github.com/hankinghu/literature-books/blob/master/革命与战争/胡平：中国民运反思.txt)
 
-GeekBook:免费IT电子书种子下载网是一个可以免费下载IT类电子书籍的网站，提供苹果开发、数据库、图形设计、硬件、微软、WEB开发等，让你不必花费一分钱即可获取原版的电子书籍。Geek-Book网站上的所有电子书虽然可以免费下载，不过需要用户注册才可以出现下载链接，用户注册的时候最好不要使用QQ邮箱，如果有Gmail邮箱的话，最好使用这个注册，不然你会收不到邮件；如果你有FaceBook帐号的话，可以使用FaceBook帐号同步登录，直接就可以下载想要的书籍了。所有下载的都是书籍种子！
+20、[黄长烨：黄长烨回忆录](https://github.com/hankinghu/literature-books/blob/master/革命与战争/黄长烨：黄长烨回忆录.txt)
 
-网站：[http://geekbook.org](http://geekbook.org/)
+21、[雷震远：内在的敌人](https://github.com/hankinghu/literature-books/blob/master/革命与战争/雷震远：内在的敌人.epub)
 
-## **8、儿童英文电子图书网**
+22、[李慎之：毛主席是什么时候决定引蛇出洞的](https://github.com/hankinghu/literature-books/blob/master/革命与战争/李慎之：毛主席是什么时候决定引蛇出洞的.txt)
 
-儿童娱乐世界\(Kind World Fun\)是一个专门为儿童打造的教育网站，提供丰富的免费电子图书、动画故事图书、诗歌、笑话、学英语教材等资源，对于从幼童就开始学习美语的家长来说，让其练习看英文书是个不错的选择。KidsWorldFun 有提供适合小朋友学习的电子书，其内容图文并茂，非常适合好奇心重的小孩来阅读，档案格式为PDF 档，可下载也可线上阅读，免去家长还要外购英文书籍的麻烦。通过浏览器打开网站便可看到所提供的电子书，点击任一本电子书，便可进入书籍介绍，点击介绍的最下方便可开启阅读或下载。
+23、[廖亦武：上帝是红色的——中国十字架地下寻访录](https://github.com/hankinghu/literature-books/blob/master/革命与战争/廖亦武：上帝是红色的——中国十字架地下寻访录.epub)
 
-网站：[http://www.kidsworldfun.com](http://www.kidsworldfun.com/)
+24、[刘宾雁：第二种忠诚.pdf](https://github.com/hankinghu/literature-books/blob/master/革命与战争/刘宾雁：第二种忠诚.pdf)
 
-## **9、OverDrive:在线电子书籍搜索平台**
+25、[罗伯特·海因莱因：严厉的月亮.epub](https://github.com/hankinghu/literature-books/blob/master/革命与战争/罗伯特·海因莱因：严厉的月亮.epub)
 
-OverDrive:在线电子书籍搜索平台是美国的一家提供电子书、有声读物、音乐与视频等下载资源的数字化内容经销商，成立于1986年;该平台服务于全球1000多家出版社、15000多家图书馆、学校、专业学会、政府机构和零售商。OverDrive凭借其历史资源的积累，为读者提供60多万种优质的电子书、有声读物、音视频等数字资源，是美国图书馆应用电子书的重要合作者及这一市场的领导者，OverDrive主要提供数字化内容的管理服务，其由几个为出版商、图书馆、各类型学校、零售商提供服务的系统组成。OverDrive透过不同系统间的整合，将客户服务延伸到不同类型的群体，将出版商、图书馆、零售商及终端用户的供需完全联系在了一起，满足了不同客户对象的需要，得到多方的认可，构建了一个系统完整的比较成熟的电子书销售与服务平台，由此占据了美国图书馆应用电子书市场的大半江山，奠定了不断拓展壮大的坚实基础。OverDrive利用自己的优势，对出版商的电子书进行加工、整理，提供整合的销售平台，并采用技术手段保护电子书内容，由出版商来决定对DRM进行控制，使出版商的利益得到了保障，为电子书面向图书馆行业市场的销售打下了基础，促进了电子书的推广与利用。
+26、[米哈伊尔·戈尔巴乔夫：“真相”与自白——戈尔巴乔夫回忆录.epub](https://github.com/hankinghu/literature-books/blob/master/革命与战争/米哈伊尔·戈尔巴乔夫：“真相”与自白——戈尔巴乔夫回忆录.epub)
 
-网站：[https://www.overdrive.com](https://www.overdrive.com/)
+27、[尼古拉·雷日科夫：大国悲剧——苏联解体的前因后果.txt](https://github.com/hankinghu/literature-books/blob/master/革命与战争/尼古拉·雷日科夫：大国悲剧——苏联解体的前因后果.txt)
 
-## **10、GitBook:基于Node电子书制作平台**
+28、[尼基塔·赫鲁晓夫：关于个人崇拜及其后果.txt](https://github.com/hankinghu/literature-books/blob/master/革命与战争/尼基塔·赫鲁晓夫：关于个人崇拜及其后果.txt)
 
-GitBook 是一个基于 Node.js 的命令行工具，并非关于 Git 的教程，而是可以使用 Github/Git 和 Markdown 来制作精美的电子书，支持输出多种文档格式，是喜欢技术流的即可们维护电子书的最佳工具之一。GitBook 的基本特色有：
+29、[牛津通识读本：美国总统制.epub](https://github.com/hankinghu/literature-books/blob/master/革命与战争/牛津通识读本：美国总统制.epub)
 
-1、以Markdown 轻量级标记语法作为编辑「原稿」的基础。
+30、[潘鸣啸：失落的一代——中国的上山下乡运动，1968~1980.epub](https://github.com/hankinghu/literature-books/blob/master/革命与战争/潘鸣啸：失落的一代——中国的上山下乡运动，1968~1980.epub)
 
-2、拿程式设计师已经不能不学的Git 作为版本管理架构。
+31、[乔治·奥威尔：动物庄园](https://github.com/hankinghu/literature-books/blob/master/革命与战争/乔治·奥威尔：动物庄园.txt)
 
-3、通过云端快速转制各种格式的流通电子书格式。
+32、[沈志华 \(主编\)：一个大国的崛起与崩溃——苏联历史专题研究.txt](https://github.com/hankinghu/literature-books/blob/master/%E9%9D%A9%E5%91%BD%E4%B8%8E%E6%88%98%E4%BA%89/%E6%B2%88%E5%BF%97%E5%8D%8E%20%28%E4%B8%BB%E7%BC%96%29%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%A4%A7%E5%9B%BD%E7%9A%84%E5%B4%9B%E8%B5%B7%E4%B8%8E%E5%B4%A9%E6%BA%83%E2%80%94%E2%80%94%E8%8B%8F%E8%81%94%E5%8E%86%E5%8F%B2%E4%B8%93%E9%A2%98%E7%A0%94%E7%A9%B6.txt)
 
-4、提供在浏览器中阅读的介面，增添了特殊的互动元件\(JavaSript\)。
+33、[盛雪：远华案黑幕](https://github.com/hankinghu/literature-books/blob/master/%E9%9D%A9%E5%91%BD%E4%B8%8E%E6%88%98%E4%BA%89/%E7%9B%9B%E9%9B%AA%EF%BC%9A%E8%BF%9C%E5%8D%8E%E6%A1%88%E9%BB%91%E5%B9%95.txt)
 
-5、读者能够直接付费购买，支持创作与正版流通。
+34、[托克维尔：旧制度与大革命.epub](https://github.com/hankinghu/literature-books/blob/master/革命与战争/托克维尔：旧制度与大革命.epub)
 
-6、提供OPDS 流通，可以在行动装置上使用支援的阅读软体。
+35、[王爱飞：波尔布特传.pdf](https://github.com/hankinghu/literature-books/blob/master/革命与战争/王爱飞：波尔布特传.pdf)
 
-GitBook 可以在本地制作任一种格式的电子书档;在本机开启网页书籍，即时编辑与校对;建制整个静态书籍网站，摆放到自己的网站空间，甚或是GitHub Pages服务，支持Mac、Windows与Linux三种平台。
+36、[王力雄：黄祸](https://github.com/hankinghu/literature-books/blob/master/革命与战争/王力雄：黄祸.chm)
 
-现在与未来的电子书，都是一种「微型网站」，结构与内容是HTML，版面透过CSS 样式表设计，互动与进阶都仰赖JavaScript;即使在原生的阅读软体中读书，替你组版的都是与浏览器相同\(或极其接近\)的组版引擎。未来的书籍制作工具，一个极端是全视觉化、模组化的「模拟富文本」生产工具，另一个极端则是写代码的编辑工具。
+37、[王力雄：十年过后谈《黄祸》.txt](https://github.com/hankinghu/literature-books/blob/master/革命与战争/王力雄：十年过后谈《黄祸》.txt)
 
-GitBook 是一个已经朝正确方向前进了几步的建构，它有电子书店的展示、搜寻与购买机制，也能让出版者自由上架贩售，同时底层还是个兼具Git 版本管理的中央仓储，以及将草稿转换为各种电子书与网站的引擎。
+38、[文革三大屠杀案.pdf](https://github.com/hankinghu/literature-books/blob/master/革命与战争/文革三大屠杀案.pdf)
 
-网站：[https://www.gitbook.com](https://www.gitbook.com/)
+39、[小杰克·马特洛克：苏联解体亲历记 \(上\)](https://github.com/hankinghu/literature-books/blob/master/%E9%9D%A9%E5%91%BD%E4%B8%8E%E6%88%98%E4%BA%89/%E5%B0%8F%E6%9D%B0%E5%85%8B%C2%B7%E9%A9%AC%E7%89%B9%E6%B4%9B%E5%85%8B%EF%BC%9A%E8%8B%8F%E8%81%94%E8%A7%A3%E4%BD%93%E4%BA%B2%E5%8E%86%E8%AE%B0%20%28%E4%B8%8A%29.pdf) 
 
-## **11、免费程序员编程书籍大全**
+40、[小杰克·马特洛克：苏联解体亲历记 \(下\).pdf](https://github.com/hankinghu/literature-books/blob/master/%E9%9D%A9%E5%91%BD%E4%B8%8E%E6%88%98%E4%BA%89/%E5%B0%8F%E6%9D%B0%E5%85%8B%C2%B7%E9%A9%AC%E7%89%B9%E6%B4%9B%E5%85%8B%EF%BC%9A%E8%8B%8F%E8%81%94%E8%A7%A3%E4%BD%93%E4%BA%B2%E5%8E%86%E8%AE%B0%20%28%E4%B8%8B%29.pdf)
 
-免费开发书籍\(Dev Free Books\)是一个收集了与程序员开发有关的各种编程语言的书籍，致力于为程序员提供丰富的免费电子书，支持在线阅读使用，目前收录了26中不同平台的108本书籍。该网站由巴西的一名叫卡欧·里贝罗·佩雷拉的WEB开发人员，鉴于互联网上可阅读的开发书籍不是很多，需要不断的寻找才能找到，于是他就创办了这个网站，除了自己收集外，其他用户可提交找到的电子书籍，希望可以凭借多人的力量来建立开发者的免费图书平台。
+41、[笑蜀：历史的先声——半个世纪前的庄严承诺.txt](https://github.com/hankinghu/literature-books/blob/master/革命与战争/笑蜀：历史的先声——半个世纪前的庄严承诺.txt)
 
-网站：[https://devfreebooks.github.io](https://devfreebooks.github.io/)
+42、[亚历山大·索尔仁尼琴：古拉格群岛.mobi](https://github.com/hankinghu/literature-books/blob/master/革命与战争/亚历山大·索尔仁尼琴：古拉格群岛.mobi)
 
-## **12、GetFreeeBooks:免费电子书分享平台**
+43、[杨继绳：墓碑——中国六十年代大饥荒纪实.epub](https://github.com/hankinghu/literature-books/blob/master/革命与战争/杨继绳：墓碑——中国六十年代大饥荒纪实.epub)
 
-GetFreeeBooks:免费电子书分享平台是一个专门收集计算机, 编辑, 数学, 演讲报告和教程等专业知识电子书的网站，你可以在该网站找个很多实名的电子书籍，并且分类非常全面。该网站分类结构非常细致，达到12层的分类系统，收录了超过150个子分类，通过关键词搜索非常方便你查找想要的电子书。
+44、[杨继绳：脱离实际必然走向谬误——就大饥荒年代的人口问题与孙经先商榷.pdf](https://github.com/hankinghu/literature-books/blob/master/革命与战争/杨继绳：脱离实际必然走向谬误——就大饥荒年代的人口问题与孙经先商榷.pdf)
 
-网站：[http://www.getfreeebooks.com](http://www.getfreeebooks.com/)
+45、[杨继绳：中国改革年代的政治斗争.epub](https://github.com/hankinghu/literature-books/blob/master/革命与战争/杨继绳：中国改革年代的政治斗争.epub)
 
-\*\*\*\*
+46、[尤金·扎米亚京：我们.epub](https://github.com/hankinghu/literature-books/blob/master/革命与战争/尤金·扎米亚京：我们.epub)
+
+47、[章诒和：往事并不如烟](https://github.com/hankinghu/literature-books/blob/master/革命与战争/章诒和：往事并不如烟.txt)
+
+48、[周恩来文革讲话集](https://github.com/hankinghu/literature-books/blob/master/革命与战争/周恩来文革讲话集.txt)
 
