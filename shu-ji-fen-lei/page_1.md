@@ -1,9 +1,5 @@
 # 历史
 
-## 书籍分类整理
-
-分为历史，政治，哲学、文学，武侠，心理学，经济，军事，人物传记等。
-
 ## 历史
 
 1、[全球通史](https://github.com/hankinghu/literature-books/blob/master/%E3%80%8A%E5%85%A8%E7%90%83%E9%80%9A%E5%8F%B2%E3%80%8B.txt)
