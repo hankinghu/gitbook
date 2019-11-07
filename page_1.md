@@ -542,7 +542,7 @@
 
 27、[约翰·斯帕尼尔：杜鲁门与麦克阿瑟的冲突和朝鲜战争.pdf](https://github.com/hankinghu/literature-books/blob/master/约翰·斯帕尼尔：杜鲁门与麦克阿瑟的冲突和朝鲜战争.pdf)
 
-28、 朱利欧·杜黑：制空权 前9章
+28、[ 朱利欧·杜黑：制空权 前9章](https://github.com/hankinghu/literature-books/blob/master/%E5%86%9B%E4%BA%8B/%E6%9C%B1%E5%88%A9%E6%AC%A7%C2%B7%E6%9D%9C%E9%BB%91%EF%BC%9A%E5%88%B6%E7%A9%BA%E6%9D%83%20%E5%89%8D9%E7%AB%A0.pdf)
 
 ## 人物传记
 
