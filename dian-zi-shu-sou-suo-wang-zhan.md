@@ -94,9 +94,5 @@ GetFreeeBooks:免费电子书分享平台是一个专门收集计算机, 编辑,
 
 网站：[http://www.getfreeebooks.com](http://www.getfreeebooks.com/)
 
-## **13 、bbaa.io电子书免费共享平台**
-
-本站所有资源均从互联网收集，只做学习和交流使用，目前已收录324本电子书籍 。
-
-网站：[https://book.bbaa.io/](https://book.bbaa.io/)
+\*\*\*\*
 
